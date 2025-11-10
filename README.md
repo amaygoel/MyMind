@@ -1,0 +1,2 @@
+# MyMind
+Personal AI Assistant
